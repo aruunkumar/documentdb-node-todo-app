@@ -1,7 +1,7 @@
 ---
 services: cosmos-db
 platforms: nodejs
-author: ryancrawcour
+author: 
 ---
 
 # Web application development with Node.js and Express using Azure Cosmos DB
